@@ -3,7 +3,6 @@
 This project presents an Apparel Coming Soon Page with Email Validation. It's designed to capture user interest for an upcoming apparel collection by allowing users to submit their email addresses for updates.
 
 ![image](https://github.com/DevAbdurR/React-Coming-Soon-Page/assets/112758727/f0aad442-e67f-4327-a8ab-16223f4096e2)
-![image](https://github.com/DevAbdurR/React-Coming-Soon-Page/assets/112758727/2dee3e93-250a-419a-8bc7-58a45bc6d42a)
 
 
 
